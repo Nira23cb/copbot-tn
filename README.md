@@ -103,17 +103,6 @@ POST /api/chatbot/ask
 ### 🔐 Login
 ![Login](docs/login.page.png)
 
-## 📸 Screenshots
-
-### 🏠 Homepage
-![Homepage](docs/homepage.png)
-
-### 🤖 Chatbot
-![Chatbot](docs/chatbot.png)
-
-### 🔐 Login
-![Login](docs/login.png)
-
 ### 🔐 Rules
 ![Rules](docs/rules.page.png)
 
