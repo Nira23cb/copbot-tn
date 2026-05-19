@@ -1,0 +1,15 @@
+# Backend
+backend/target/
+backend/.mvn/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
