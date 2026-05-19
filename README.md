@@ -92,5 +92,15 @@ POST /api/chatbot/ask
 - Cyber Financial Fraud: **1930**
 
 ---
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](docs/homepage.png)
+
+### 🤖 Chatbot
+![Chatbot](docs/chatbot.png)
+
+### 🔐 Login
+![Login](docs/login.png)
 
 *This portal is for informational purposes only. For emergencies, dial 100 or 112.*
